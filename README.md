@@ -15,7 +15,7 @@ i can never seem to choose just one thing. you might find me climbing, reading, 
 
 ## find me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/laaici-ulep](https://www.linkedin.com/in/laaici-ulep/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laaici-ulep/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ulep.lba@gmail.com)
 
 ## the Tech Stack 😎
