@@ -3,8 +3,8 @@
 ## v3.29.1 about me 
 𖤐 Building secure software with purpose and real-world impact  
 ּ𖦹 B. Software Engineering @ UTS + Sub Majoring in InfoSec  
-𖤐 Combining cyber security, development, and team-led project delivery  
-𖦹 Breaking things and building fun projects along the way  
+𖤐 Combining security, development, and team-led project delivery  
+𖦹 Stepping out of my comfort zone!  
 
 ## v3.30.0 about me 
 
