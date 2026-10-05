@@ -1,15 +1,14 @@
 ## hello i'm laaici! 🕺
 
 ## v3.29.1 about me 
-𖤐 Building secure software with purpose and real-world impact  
 ּ𖦹 B. Software Engineering @ UTS + Sub Majoring in InfoSec  
-𖤐 Combining security, development, and team-led project delivery  
+𖤐 Combining security, dev, and team-led project delivery  
 𖦹 Stepping out of my comfort zone!  
 
 ## v3.30.0 about me 
 
 𖠋 𖠋 𖠋  
-i can never seem to choose just one thing. you might find me climbing, reading, taking photos, playing with graphic design, or digging through vinyl records. i like trying new things, collecting experiences, and convincing myself that adding one more hobby is always a good idea... 😵‍💫🏃🏻‍♀️‍➡️
+i can never seem to choose just one thing. you might find me climbing, reading, taking photos, playing with graphic design, or digging through vinyl records. i like trying new things and convincing myself that adding one more hobby is always a good idea... 😵‍💫🏃🏻‍♀️‍➡️
 
 <img width="355" height="200" alt="image" src="https://github.com/user-attachments/assets/66df514d-6ec8-4da1-8343-0965f0770215" /> 
 
